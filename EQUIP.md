@@ -7,3 +7,5 @@
 - Mariona
 - Joana
 - Antoni
+- Pere
+- Ramon
