@@ -1,0 +1,11 @@
+# Curs Git-Github avançat Jesús Amieiro
+- Pràctiques del curs de Git-Github avançat de Jesús Amieiro
+- Temes:
+  - git reset
+  - git cherry-pick
+  - git stash
+  - git bisect
+  - git blame
+  - git rebase
+  - git squash
+  - git reflog
