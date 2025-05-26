@@ -5,3 +5,5 @@
 - Jordi
 - Mercè
 - Mariona
+- Joana
+- Antoni
