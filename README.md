@@ -1,6 +1,6 @@
 # Curs Git-Github avançat Jesús Amieiro
 - Pràctiques del curs de Git-Github avançat de Jesús Amieiro
-- Temes:
+- Temari:
   - git reset
   - git cherry-pick
   - git stash
