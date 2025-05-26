@@ -9,3 +9,5 @@
 - Antoni
 - Pere
 - Ramon
+- Pepa
+- Joana
