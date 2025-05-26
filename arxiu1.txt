@@ -1,1 +1,3 @@
 Afegeixo línia 1
+Afegeixo línia 2
+Afegeixo línia 3
