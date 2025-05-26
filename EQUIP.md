@@ -3,3 +3,5 @@
 - Maria
 - Joan
 - Jordi
+- Mercè
+- Mariona
