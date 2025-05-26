@@ -3,9 +3,6 @@
 - Jordi
 - Mercè
 - Mariona
-- Joana
-- Antoni
-- Pere
 - Ramon
 - Pepa
 - Joana
