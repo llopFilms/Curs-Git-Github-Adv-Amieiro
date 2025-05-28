@@ -2,3 +2,4 @@ Prova de stash amb arxiu4.txt
 Modificació a brancarebase per fast-forward
 Modificació a brancarebase per recursive
 Modificació de nou a brancarebase per fast-forward
+Modificació de nou a brancarebase per ort i amb un conflicte
